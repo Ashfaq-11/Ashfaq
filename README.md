@@ -1,5 +1,6 @@
 # 💫 About Me:
-I'm Ashfaq, a Computer Science student passionate about Frontend Development and seeking collaborations to learn and grow.<br>My interest in programming started with HTML and CSS, and I focus on web development using PHP.<br>Collaboration is key to success, and I'm open to challenging projects to learn from and contribute my skills.<br>I'm a problem solver and strong communicator who enjoys finding creative solutions and improving interpersonal skills.<br>Beyond coding, I enjoy learning about web tech, attending meetups and hackathons, and excited to join GitHub's developer community.
+Hi there! I'm Ashfaq , graduate in Bachelor's in Computer Applications with a strong interest in data analytics. I'm passionate about leveraging data to drive business insights and make informed decisions.
+Through my coursework, I have gained a strong foundation in programming, data structures, algorithms, and database management. I have also developed skills in data analysis and visualization, using tools such as SQL, and Tableau.
 
 
 ## 🌐 Socials:
